@@ -1,0 +1,3 @@
+MATH101,Calculus 1,PROF001
+CS101,Intro to Programming,PROF002
+CIVIC101,Moral and Citizenship Education,PROF004
